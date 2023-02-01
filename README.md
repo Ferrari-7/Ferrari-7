@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm studying history and look forward to seeing how Digital Data Science might give me new skills that I can apply to researching :sunny: I'm currently working on my bachelor's project which includes reading through a bunch of typewritten documents from the 1970'ties :books:
+
 <!--
 **Ferrari-7/Ferrari-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
